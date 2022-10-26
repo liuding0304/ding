@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "b9108b12a782fd68",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5584cc451d1553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f151f9d63ae2b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "博文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14399cbbfce9eea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69d55e13261e4c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ea864b7684327e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52567858603acd4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac2f123e9d51f3d1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb43aee902ac5afe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1272d1f4cd244f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1a4179e893f69d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "博文.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c11040de08b8c52c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "博文.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "518c54126a821d47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d621f0357b019667",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "博文.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9f151f9d63ae2b21",
+  "lastOpenFiles": [
+    "README.md",
+    "nginx.md",
+    "Ding.md"
+  ]
+}
