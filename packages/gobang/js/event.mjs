@@ -3,15 +3,15 @@ export default class Event {
     this._events = {}
   }
   on(name, fn) {
-    const evt = this._events[name] || (this._events = [])
+    const evt = this._events[name] || (this._events[name] = [])
     typeof fn === 'function' && evt.push(fn)
     return this
   }
-  emit(name, context, ...arg) {
+  emit(name, ...arg) {
     const evt = this._events[name]
     if (evt && evt.length) {
       evt.forEach((fn) => {
-        fn.call(context || null, ...arg)
+        fn(...arg)
       })
     }
     return this
@@ -23,12 +23,11 @@ export default class Event {
     }
     this.on(name, onceFn)
   }
-
   off(name, fn) {
     if (name) {
       const evt = this._events[name]
       if (typeof fn === 'function') {
-        this._events = this._events.filter((f) => f !== fn)
+        this._events[name] = this._events[name].filter((f) => f !== fn)
       } else {
         this._events[name] = []
       }

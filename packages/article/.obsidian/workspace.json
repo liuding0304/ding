@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "40f3d0349f827c78",
+        "id": "09dbabcfb6f76b59",
         "type": "tabs",
         "children": [
           {
-            "id": "fd344823c428ff81",
+            "id": "65d3db0bb18bf298",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "图片/图片格式.md",
-                "mode": "source",
+                "file": "图片/web常用图片格式及实践分享.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "图片/图片格式.md",
+                "file": "图片/web常用图片格式及实践分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "图片/图片格式.md",
+                "file": "图片/web常用图片格式及实践分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "图片/图片格式.md"
+                "file": "图片/web常用图片格式及实践分享.md"
               }
             }
           },
@@ -137,24 +137,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 321.5
   },
-  "active": "fd344823c428ff81",
+  "active": "65d3db0bb18bf298",
   "lastOpenFiles": [
-    "图片/图片格式.md",
     "Ding.md",
+    "2022-11-25.md",
+    "未命名.md",
+    "图片/web常用图片格式及实践分享.md",
+    "2022-11-22.md",
     "性能/图片性能.md",
     "webpack构建工具/webpack流程.md",
     "_assets/image-1627617460200.png",
     "_assets/20220320224355.png",
-    "_assets/20220320214422.png",
-    "webpack构建工具/assets/Pasted image 20221027104814.png",
-    "Pasted image 20221027104735.png",
-    "webpack构建工具/eslint.md"
+    "_assets/20220320214422.png"
   ]
 }
