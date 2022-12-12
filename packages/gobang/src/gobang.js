@@ -1,4 +1,4 @@
-import Event from "./event.mjs";
+import Event from "utils/src/event";
 
 // 棋子类型
 const CHESS_TYPE = {
