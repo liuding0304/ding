@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as n}from"./app.ac902fba.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},s=n("p",null,"Ding",-1),r=[s];function c(d,i,_,p,l,m){return a(),t("div",null,r)}const x=e(o,[["render",c]]);export{u as __pageData,x as default};
