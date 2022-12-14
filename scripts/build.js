@@ -19,5 +19,4 @@ execSync('pnpm run -F blog build', stdio)
 // 组合构建结果输入到dist
 fse.ensureDirSync(resolve('../dist'))
 fse.copySync(resolve('../packages/article/dist'), resolve('../dist'))
-fse.copySync(resolve('../packages/article/dist'), resolve('../dist'))
 fse.copySync(resolve('../packages/blog/dist'), resolve('../dist'))
