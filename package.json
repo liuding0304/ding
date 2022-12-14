@@ -1,10 +1,14 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
+    "fs-extra": "^11.1.0",
     "lerna": "^6.1.0"
   }
 }
