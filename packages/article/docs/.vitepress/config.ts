@@ -29,7 +29,7 @@ export default defineConfig({
       ]
     }
   },
-  outDir: path.resolve(__dirname, '../../lib/article/'),
+  outDir: path.resolve(__dirname, '../../dist/article/'),
   markdown: {
     anchor: true,
     lineNumbers: true

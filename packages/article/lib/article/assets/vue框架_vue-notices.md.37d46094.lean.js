@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as r}from"./app.ac902fba.js";const v=JSON.parse('{"title":"Vue开发注意事项","description":"","frontmatter":{},"headers":[],"relativePath":"vue框架/vue-notices.md"}'),i={name:"vue框架/vue-notices.md"},o=r("",2),s=[o];function c(l,n,h,d,p,u){return a(),t("div",null,s)}const m=e(i,[["render",c]]);export{v as __pageData,m as default};
