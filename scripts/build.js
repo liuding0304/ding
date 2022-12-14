@@ -10,11 +10,11 @@ function resolve(p) {
 
 
 
-// // 构建article
-// execSync('pnpm run -F article docs:build', stdio)
+// 构建article
+execSync('pnpm run -F article docs:build', stdio)
 
-// // 构建blog
-// execSync('pnpm run -F blog build', stdio)
+// 构建blog
+execSync('pnpm run -F blog build', stdio)
 
 // 组合构建结果输入到dist
 fse.ensureDirSync(resolve('../dist'))
